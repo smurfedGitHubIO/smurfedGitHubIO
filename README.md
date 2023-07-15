@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Prongs!
-- 👀 I’m interested on a lot of stuff, particularly card games and code.
-- 🌱 I’m currently a student taking a BS CS degree in UPD.
-- 📫 I have used PERN stack on some of my projects and is currently learning Svelte and Firebase.
-- 📫 My plan is to pursue a career in the data analytics industry and is trying to learn data science.
-- 📫 If you are interested, you can approach me by emailing me through my personal email (clydefrongoso@gmail.com).
+👋 Hi, I’m Andrea, a BS Computer Science undergraduate of University of the Philippines - Diliman.
+👀 I'm an avid card gamer and competitive programmer.
+🏆 I've had several wins on some local competitions during my three years in the university.
+📫 I have used PERN stack, React, and a combination of Sveltekit and Firebase on my projects.
+📫 I am currently studying ML, Statistics, and Flask app creation to pursue data analytics and to further build my portfolio.
+📞 If you are interested, you can approach me by emailing me through my personal email (clydefrongoso@gmail.com).
 
 <!---
 smurfedGitHubIO/smurfedGitHubIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
