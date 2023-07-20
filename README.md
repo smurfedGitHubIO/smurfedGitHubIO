@@ -1,6 +1,6 @@
-👋 Hi, I’m Andrea, a BS Computer Science undergraduate of University of the Philippines - Diliman.
+👋 Hi, I’m Justin Clyde Frongoso, a BS Computer Science undergraduate of University of the Philippines - Diliman.
 
-👀 I'm an avid card gamer and competitive programmer.
+👀 People call me Andrea and is a competitive programmer.
 
 🏆 I've had several wins on some local competitions during my three years in the university.
 
