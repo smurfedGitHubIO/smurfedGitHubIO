@@ -1,12 +1,12 @@
-👋 Hi, I’m Justin Clyde Frongoso, a BS Computer Science undergraduate of University of the Philippines - Diliman.
+👋 Hi, I’m Justin Clyde Frongoso, a fourth-year BS Computer Science undergraduate of University of the Philippines - Diliman.
 
-👀 People call me Andrea and is a competitive programmer.
+👀 You can call me Prongs and I write code from time to time.
 
-🏆 I've had several wins on some local competitions during my three years in the university.
+🏆 I'm a dedicated competitor and had several wins on local competitions during my three years in the university.
 
-📫 I have used PERN stack, React, and a combination of Sveltekit and Firebase on my projects.
+📫 I have experience on PERN stack, React, and a combination of Sveltekit and Firebase on some of my dev projects.
 
-📫 I am currently studying ML, Statistics, and Flask app creation to pursue data analytics and to further build my portfolio.
+📫 I am into AI and ML lately, gradually adding it on some Flask apps. I'm also doing reinforcement learning research using computer vision.
 
 📞 If you are interested, you can approach me by emailing me through my personal email (clydefrongoso@gmail.com).
 
